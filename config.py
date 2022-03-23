@@ -1,9 +1,9 @@
 ######################################################
 # PLEASE CHANGE FOLLOWING CONFIGS ####################
-Twitch_Channel          = 'target_channel_name'
+Twitch_Channel          = 'aonosuke_da'
 
-Trans_Username          = 'trans_user_name'
-Trans_OAUTH             = 'oauth_for_trans_user'
+Trans_Username          = 'sherryaaa'
+Trans_OAUTH             = 'oauth:7u0mdk2svejp5gii6g4r0trftkzxfb'
 
 #######################################################
 # OPTIONAL CONFIGS ####################################
@@ -13,7 +13,7 @@ Trans_TextColor         = 'GoldenRod'
 lang_TransToHome        = 'ja'
 lang_HomeToOther        = 'en'
 
-Show_ByName             = True
+Show_ByName             = false
 Show_ByLang             = True
 
 Ignore_Lang             = ['']
